@@ -6,7 +6,3 @@ console.log(4);
 
 
 console.log(123);
-
-
-
-//add
